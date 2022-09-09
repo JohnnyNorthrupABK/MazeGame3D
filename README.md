@@ -1,2 +1,2 @@
 # MazeGame3D
- 3D maze game exercise created in Unreal.
+ 3D maze game exercise
